@@ -640,7 +640,6 @@ $c-search-input-padding-bottom: $c-search-input-padding-top + 1;
  */
 
 $c-search-input-padding-top: 5;
-
 $c-search-input-padding-bottom: $c-search-input-padding-top + 1;
 
 
