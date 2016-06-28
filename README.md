@@ -846,12 +846,10 @@ These comments should always be above their subject with a space coming after th
 
 // Colours
 $c-pagination-background-color:   #000;
-
 $c-pagination-foreground-color:   #333;
 
 // Padding
 $c-pagination-padding-left:       $spacing-base;
-
 $c-pagination-padding-right:      $spacing-half;
 
 
